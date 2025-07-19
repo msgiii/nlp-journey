@@ -1,9 +1,9 @@
 # nlp journey
 
-[![Star](https://img.shields.io/github/stars/msgi/nlp-journey?color=success)](https://github.com/msgi/nlp-journey/)
-[![Fork](https://img.shields.io/github/forks/msgi/nlp-journey)](https://github.com/msgi/nlp-journey/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/msgi/nlp-journey?color=success)](https://github.com/msgi/nlp-journey/issues)
-[![License](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/msgi/nlp-journey)
+[![Star](https://img.shields.io/github/stars/msgiii/nlp-journey?color=success)](https://github.com/msgi/nlp-journey/)
+[![Fork](https://img.shields.io/github/forks/msgiii/nlp-journey)](https://github.com/msgi/nlp-journey/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/msgiii/nlp-journey?color=success)](https://github.com/msgi/nlp-journey/issues)
+[![License](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/msgiii/nlp-journey)
 
 
 ## 1. Books
